@@ -26,13 +26,5 @@
           "description": "Your telegram account session.  Get from @Venom_String_robot",
           "required": true
         }
-    },
-    "buildpacks": [
-        {
-            "url": "heroku/python"
-        },
-        {
-            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
-        }
-    ]
+    }
 }
