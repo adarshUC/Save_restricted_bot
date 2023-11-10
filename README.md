@@ -42,3 +42,4 @@ __FOR PRIVATE CHATS__
 _first send invite link of the chat (unnecessary if the account of string session already member of the chat)
 then send post/s link_
 
+xd
